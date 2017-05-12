@@ -1,0 +1,27 @@
+{
+  "name": "socket.io-signalling-server",
+  "version": "1.0.0",
+  "description": "socket.io signaling server for webRtc",
+  "main": "signaler.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailamir/socket.io-signalling-server.git"
+  },
+  "keywords": [
+    "socket.io",
+    "webrtc"
+  ],
+  "author": "Muhammad Suhail Amir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhailamir/socket.io-signalling-server/issues"
+  },
+  "homepage": "https://github.com/suhailamir/socket.io-signalling-server#readme",
+  "dependencies": {
+    "node-static": "^0.7.9",
+    "socket.io": "^2.0.1"
+  }
+}
